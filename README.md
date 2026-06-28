@@ -101,13 +101,11 @@ I enjoy solving real-world problems through clean, scalable, and user-focused so
 
 # 📈 GitHub Analytics
 
+# 💻 Most Used Languages
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Niteshkumar-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshkumar-codes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Niteshkumar-codes&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshkumar-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
