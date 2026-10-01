@@ -16,13 +16,13 @@ I enjoy solving real-world problems through clean, scalable, and user-focused so
 ---
 
 # 👨‍💻 About Me
-🎓 B.Tech in Computer Science Engineering (2023 – 2027)
-💻 Building full-stack web apps with React.js, Node.js, Express.js, MongoDB
-🤖 Exploring AI engineering — LLM agents, prompt engineering, retrieval systems
-🌱 Currently learning Next.js, TypeScript, System Design, AI Integrations
-📚 Practicing Data Structures & Algorithms in Java
-🤝 Open to Internships, Open Source Contributions, and Team Collaboration
-🎯 Goal: Grow as a professional software developer building real-world solutions
+🎓 B.Tech in Computer Science Engineering (2023 – 2027)<br>
+💻 Building full-stack web apps with React.js, Node.js, Express.js, MongoDB<br>
+🤖 Exploring AI engineering — LLM agents, prompt engineering, retrieval systems<br>
+🌱 Currently learning Next.js, TypeScript, System Design, AI Integrations<br>
+📚 Practicing Data Structures & Algorithms in Java<br>
+🤝 Open to Internships, Open Source Contributions, and Team Collaboration<br>
+🎯 Goal: Grow as a professional software developer building real-world solutions<br>
 
 ---
 
