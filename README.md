@@ -2,7 +2,7 @@
 
 # Hi, I'm Nitesh Kumar 👋
 
-### Web Developer • B.Tech CSE Student • Open to Internships
+### Software Developer | B.Tech CSE Student (2023–2027) | Building AI Agents & Full-Stack Web Apps • Open to Internships
 
 <p>
 Passionate about building modern web applications and continuously learning new technologies.
@@ -16,20 +16,13 @@ I enjoy solving real-world problems through clean, scalable, and user-focused so
 ---
 
 # 👨‍💻 About Me
-
 🎓 B.Tech in Computer Science Engineering (2023 – 2027)
-
-💻 Passionate about modern Web Development
-
-🚀 Building scalable web applications using React.js, Node.js, Express.js, and MongoDB
-
-🌱 Currently learning **Next.js, TypeScript, AI Integrations, Backend Development, and System Design**
-
-📚 Practicing **Data Structures & Algorithms** using Java
-
-🤝 Open to **Internships, Open Source Contributions, and Team Collaboration**
-
-🎯 Career Goal: Build software that solves real-world problems and grow as a professional software developer.
+💻 Building full-stack web apps with React.js, Node.js, Express.js, MongoDB
+🤖 Exploring AI engineering — LLM agents, prompt engineering, retrieval systems
+🌱 Currently learning Next.js, TypeScript, System Design, AI Integrations
+📚 Practicing Data Structures & Algorithms in Java
+🤝 Open to Internships, Open Source Contributions, and Team Collaboration
+🎯 Goal: Grow as a professional software developer building real-world solutions
 
 ---
 
